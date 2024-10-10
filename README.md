@@ -1,13 +1,13 @@
 Hi 👋 !
 
-I’m Hervé, junior web developer, looking for new challenge to learn and improve !
+I’m Hervé, fullstack developer, looking for new challenge to learn and improve !
 
 ## Open for job opportunities
 
 My main dev skills :
-* React / React Native
-* NodeJS
-* Mysql
+* React / React Native / Typescript
+* NodeJS / NestJS
+* Mysql / Postgress
 
 Check out [Tuk Tuk Travel](https://github.com/blemia51/tuk-tuk-travel) one of my last project (still in development)
 
