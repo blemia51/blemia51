@@ -9,7 +9,7 @@ My main dev skills :
 * NodeJS / NestJS / TypeORM
 * Mysql / Postgress
 
-Check out [Saas-starter](https://saas-satrter.hbourelle.coml) one of my last project (still in development)
+Check out [Saas-starter](https://saas-starter.hbourelle.com) one of my last project (still in development)
 
 
 <!---
