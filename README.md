@@ -6,10 +6,10 @@ I’m Hervé, fullstack developer, looking for new challenge to learn and improv
 
 My main dev skills :
 * React / React Native / Typescript
-* NodeJS / NestJS
+* NodeJS / NestJS / TypeORM
 * Mysql / Postgress
 
-Check out [Tuk Tuk Travel](https://github.com/blemia51/tuk-tuk-travel) one of my last project (still in development)
+Check out [Saas-starter](https://saas-satrter.hbourelle.coml) one of my last project (still in development)
 
 
 <!---
