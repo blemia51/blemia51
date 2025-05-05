@@ -10,6 +10,26 @@ My main dev skills :
 * Mysql / Postgress
 
 Check out [Saas-starter](https://saas-starter.hbourelle.com) one of my last project (still in development)
+# 👋 Salut, je suis Hervé Bourelle
+
+Je suis **développeur full-stack** spécialisé en ReactJS, NestJS et mobile (React Native).  
+Actuellement basé à Paris, je travaille sur des portfolios, des apps de gestion et des plateformes SaaS.
+
+- 🔭 Je travaille sur [hb-portfolio](https://github.com/blemia51/hb-portfolio)
+- 🌱 J’apprends Docker & CI/CD
+- 📫 Contactez-moi sur [LinkedIn](https://www.linkedin.com/in/hernou/)
+
+---
+
+## 🔧 Tech Stack
+
+| Frontend       | Backend       | Mobile         | DB / DevOps      |
+| -------------- | ------------- | -------------- | ---------------- |
+| React, MUI, CRA| NestJS, TypeORM | React Native | MySQL, Railway, Docker |
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 
 <!---
