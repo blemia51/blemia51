@@ -4,10 +4,25 @@ I'm fullstack developer, looking for new challenge to learn and improve !
 
 ## Open for job opportunities
 
-My main dev skills :
-* React / React Native / Typescript
-* NodeJS / NestJS / TypeORM
-* Mysql / Postgress
+---
+
+## 🔧 Tech Stack
+
+| Category                  | Technologies & Tools                                                                 |
+| ------------------------- | ------------------------------------------------------------------------------------ |
+| **Frontend**              | React, Next.js, TypeScript, Redux, MUI, Tailwind CSS                                 |
+| **Backend**               | Node.js, NestJS, Express, TypeScript, TypeORM, Prisma                                |
+| **Mobile**                | React Native, Expo                                                                   |
+| **Databases**             | MySQL, PostgreSQL, MongoDB                                                           |
+| **DevOps / Infra*         | Docker, Railway, Vercel, Netlify, GitHub                                             |
+| **Testing**               | Jest                                                                                 |
+| **Auth & Security**       | OAuth2, JWT, Passport.js                                                             |
+| **API / Protocols**       | REST, WebSocket                                                                      |
+| **Languages**             | JavaScript, TypeScript, Python                                                       |
+| **Tools & Misc**          | Git, GitHub, VS Code, Postman, Swagger/OpenAPI                                       |
+
+
+---
 
 Check out [Saas-starter](https://saas-starter.hbourelle.com) one of my last project (still in development)
 
