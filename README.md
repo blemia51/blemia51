@@ -1,6 +1,6 @@
-# Hi 👋 I am Hervé!
+# Hi I am Hervé!
 
-I'm fullstack developer, looking for new challenge to learn and improve !
+## I'm fullstack developer, looking for new challenge to learn and improve !
 
 ## Open for job opportunities
 
